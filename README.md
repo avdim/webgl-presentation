@@ -1,3 +1,6 @@
+Презентация: https://avdim.github.io/webgl-presentation
+Видео: https://www.youtube.com/watch?v=4jS3RtzasS0
+
 ### Слайд 4
 Почему я решила рассказать про WebGL?
 * WebGL - это отличный способ развлечь себя решением нестандартных для фронтендера задач в знакомой среде
